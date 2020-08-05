@@ -1,2 +1,2 @@
 # temporizador
-Temporizador feio para android.
+Temporizador para android.
